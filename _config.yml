@@ -104,5 +104,5 @@ theme: fluid
 deploy:
   type: 'git'
   repo: https://github.com/YangchenYe323/YangchenYe323.github.io.git
-  branch: target
+  branch: gh-page
   message: Update Site - {{ now('YYYY-MM-DD HH:mm:ss') }}
